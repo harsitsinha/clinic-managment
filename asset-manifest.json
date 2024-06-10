@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clinic-managment/static/css/main.0315d932.chunk.css",
+    "main.js": "/clinic-managment/static/js/main.0393bccd.chunk.js",
+    "main.js.map": "/clinic-managment/static/js/main.0393bccd.chunk.js.map",
+    "runtime~main.js": "/clinic-managment/static/js/runtime~main.bca12287.js",
+    "runtime~main.js.map": "/clinic-managment/static/js/runtime~main.bca12287.js.map",
+    "static/js/2.9ab44d28.chunk.js": "/clinic-managment/static/js/2.9ab44d28.chunk.js",
+    "static/js/2.9ab44d28.chunk.js.map": "/clinic-managment/static/js/2.9ab44d28.chunk.js.map",
+    "static/js/3.b5a2df92.chunk.js": "/clinic-managment/static/js/3.b5a2df92.chunk.js",
+    "static/js/3.b5a2df92.chunk.js.map": "/clinic-managment/static/js/3.b5a2df92.chunk.js.map",
+    "index.html": "/clinic-managment/index.html",
+    "precache-manifest.a0e6d402df5452f1344b7f44713f23d7.js": "/clinic-managment/precache-manifest.a0e6d402df5452f1344b7f44713f23d7.js",
+    "service-worker.js": "/clinic-managment/service-worker.js",
+    "static/css/main.0315d932.chunk.css.map": "/clinic-managment/static/css/main.0315d932.chunk.css.map"
+  }
+}
