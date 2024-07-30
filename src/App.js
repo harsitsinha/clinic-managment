@@ -345,7 +345,7 @@ const App = () => {
       <div className="App">
         <nav>
           <ul>
-            <li><Link to="/">Home</Link></li>
+            <li><Link to="/home">Home</Link></li>
             <li><Link to="/search">Search Patients</Link></li>
             <li><Link to="/dashboard">Analytics Dashboard</Link></li>
             {/* <button id = "lock-button">
@@ -354,7 +354,7 @@ const App = () => {
           </ul>
         </nav>
         <Routes>
-          <Route path="/" element={
+          <Route path="/home" element={
             <div>
               <h1>Clinic Management</h1>
               <div className="form">
