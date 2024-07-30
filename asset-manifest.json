@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/clinic-managment/static/css/main.0315d932.chunk.css",
-    "main.js": "/clinic-managment/static/js/main.0393bccd.chunk.js",
-    "main.js.map": "/clinic-managment/static/js/main.0393bccd.chunk.js.map",
-    "runtime~main.js": "/clinic-managment/static/js/runtime~main.bca12287.js",
-    "runtime~main.js.map": "/clinic-managment/static/js/runtime~main.bca12287.js.map",
-    "static/js/2.9ab44d28.chunk.js": "/clinic-managment/static/js/2.9ab44d28.chunk.js",
-    "static/js/2.9ab44d28.chunk.js.map": "/clinic-managment/static/js/2.9ab44d28.chunk.js.map",
-    "static/js/3.b5a2df92.chunk.js": "/clinic-managment/static/js/3.b5a2df92.chunk.js",
-    "static/js/3.b5a2df92.chunk.js.map": "/clinic-managment/static/js/3.b5a2df92.chunk.js.map",
-    "index.html": "/clinic-managment/index.html",
-    "precache-manifest.a0e6d402df5452f1344b7f44713f23d7.js": "/clinic-managment/precache-manifest.a0e6d402df5452f1344b7f44713f23d7.js",
-    "service-worker.js": "/clinic-managment/service-worker.js",
-    "static/css/main.0315d932.chunk.css.map": "/clinic-managment/static/css/main.0315d932.chunk.css.map"
+    "main.css": "/clinic-managment/home/static/css/main.0315d932.chunk.css",
+    "main.js": "/clinic-managment/home/static/js/main.648b09b6.chunk.js",
+    "main.js.map": "/clinic-managment/home/static/js/main.648b09b6.chunk.js.map",
+    "runtime~main.js": "/clinic-managment/home/static/js/runtime~main.8877146c.js",
+    "runtime~main.js.map": "/clinic-managment/home/static/js/runtime~main.8877146c.js.map",
+    "static/js/2.69e28eb4.chunk.js": "/clinic-managment/home/static/js/2.69e28eb4.chunk.js",
+    "static/js/2.69e28eb4.chunk.js.map": "/clinic-managment/home/static/js/2.69e28eb4.chunk.js.map",
+    "static/js/3.b5a2df92.chunk.js": "/clinic-managment/home/static/js/3.b5a2df92.chunk.js",
+    "static/js/3.b5a2df92.chunk.js.map": "/clinic-managment/home/static/js/3.b5a2df92.chunk.js.map",
+    "index.html": "/clinic-managment/home/index.html",
+    "precache-manifest.f784e7e1efe4c14ae75fd161db223dfa.js": "/clinic-managment/home/precache-manifest.f784e7e1efe4c14ae75fd161db223dfa.js",
+    "service-worker.js": "/clinic-managment/home/service-worker.js",
+    "static/css/main.0315d932.chunk.css.map": "/clinic-managment/home/static/css/main.0315d932.chunk.css.map"
   }
 }
